@@ -1,0 +1,28 @@
+Regular client John lines up at RegularQueue
+Regular client Bob lines up at RegularQueue
+Regular client Tom lines up at RegularQueue
+VIP client Sarah lines up at VIPStack
+VIP client Marie lines up at VIPStack
+VIP client Joan lines up at VIPStack
+Now serving Joan from VIPStack
+Now serving Marie from VIPStack
+Supervisor present
+Now serving John from RegularQueue
+Now serving Bob from RegularQueue
+Now serving Tom from RegularQueue
+VIP client Bea lines up at RegularQueue
+Regular client Hank lines up at RegularQueue
+Now serving Sarah from RegularQueue
+Now serving Bea from RegularQueue
+Now serving Hank from RegularQueue
+Supervisor not here
+Regular client Art lines up at RegularQueue
+VIP client Daisy lines up at VIPStack
+Regular client Marius lines up at RegularQueue
+VIP client Dane lines up at VIPStack
+Now serving Dane from VIPStack
+Supervisor present
+Now serving Art from RegularQueue
+Now serving Marius from RegularQueue
+Now serving Daisy from RegularQueue
+Supervisor not here
